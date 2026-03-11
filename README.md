@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeFi Token Rotation Dashboard  
 **UNI · AAVE · LINK · LDO · SNX**  
 *(All ERC-20 tokens on Ethereum mainnet)*
@@ -130,3 +131,6 @@ Lagos, Nigeria
 March 2026
 
 Built to explore and visualize real DeFi capital rotation on Ethereum.
+=======
+# defi-token-rotation-dashboard
+>>>>>>> 7b17d6752708cb03e9cd39e7b8c7f2f6f3644ae5
