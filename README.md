@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DeFi Token Rotation Dashboard  
 **UNI · AAVE · LINK · LDO · SNX**  
 *(All ERC-20 tokens on Ethereum mainnet)*
@@ -76,7 +76,7 @@ All four charts with the KPI Cards are fully interactive:
   The Token slicer filters this chart to show one line (selected token) or multiple lines (All).  
 - **Purpose**: Flags periods of high churn/turnover — useful for spotting momentum, whale activity, or sudden interest.  
 - **How to read**: Higher line = higher rotation activity. Hover for exact score value.
-![Rotation Intensity](/img/sum%20of%20rotation%20intensity.PNG)  
+![Rotation Intensity](/img/rotation.PNG)  
 
 
 ### 5. Total Volume USD (Area Chart)
@@ -84,7 +84,7 @@ All four charts with the KPI Cards are fully interactive:
   The Token slicer updates this chart (and all others) to show volume for only the selected token — or combined when "All" is chosen.  
 - **Purpose**: Provides a smooth, visual overview of overall activity level and trends for the selected token(s).  
 - **How to read**: Higher/filled area = higher total volume that day. Hover shows exact $ amount.
-![Total Volume USD](/img/sum%20of%20total%20volume%20(USD).PNG)  
+![Total Volume USD](/img/sum.PNG)  
 
 
 All charts refresh from live Dune data and respond instantly to slicer changes.
@@ -131,6 +131,3 @@ Lagos, Nigeria
 March 2026
 
 Built to explore and visualize real DeFi capital rotation on Ethereum.
-=======
-# defi-token-rotation-dashboard
->>>>>>> 7b17d6752708cb03e9cd39e7b8c7f2f6f3644ae5
