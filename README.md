@@ -45,8 +45,11 @@ All four charts with the KPI Cards are fully interactive:
 
 - **Purpose**: Provides at-a-glance insight without digging into charts.  
 - **How to read**: Values update dynamically with slicers (token/date range). Formatted as percentage (%).
-![Dashboard Overview](/img/snapshot.PNG)  
-
+![AAVE KPI](/img/AAVE%20KPI.PNG)  
+![LDO KPI](/img/LDO%20KPI.PNG)
+![LINK KPI](/img/LINK%20KPI.PNG)
+![SNX KPI](/img/SNX%20KPI.PNG)
+![UNI KPI](/img/UNI%20KPI.PNG)
 
 ### 2. Daily Volume Trend (100% Stacked Column Chart)
 - **What it shows**: Daily total transfer volume in USD, broken down by flow category (stacked columns).  
@@ -134,7 +137,3 @@ Lagos, Nigeria
 March 2026
 
 Built to explore and visualize real DeFi capital rotation on Ethereum.
-<<<<<<< HEAD
-=======
-
->>>>>>> 666202bafc3964e3859fd53a2ec5fd90ef90dd77
